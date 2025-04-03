@@ -2,6 +2,10 @@
 
 This is a website built using HTML and CSS. It includes a modern UI with flexible layout adjustments for different screen sizes.
 
+# Live Website
+
+website: [https://naimdotcom.github.io/Hancok/](Link)
+
 ## Features
 - Fully responsive design
 - Modern and clean UI
@@ -10,11 +14,11 @@ This is a website built using HTML and CSS. It includes a modern UI with flexibl
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/hancok-website.git
+   git clone https://github.com/naimdotcom/Hancok.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd hancok-website
+   cd Hancok
    ```
 3. Open `index.html` in your browser.
 
