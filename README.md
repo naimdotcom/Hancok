@@ -7,9 +7,7 @@ This is a website built using HTML and CSS. It includes a modern UI with flexibl
 website: [Link](https://naimdotcom.github.io/Hancok/)
 
 ## Features
-- Fully responsive design
 - Modern and clean UI
-- Navigation menu adapts to different devices
 
 ## Installation
 1. Clone the repository:
