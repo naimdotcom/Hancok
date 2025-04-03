@@ -4,7 +4,7 @@ This is a website built using HTML and CSS. It includes a modern UI with flexibl
 
 # Live Website
 
-website: [https://naimdotcom.github.io/Hancok/](Link)
+website: [Link](https://naimdotcom.github.io/Hancok/)
 
 ## Features
 - Fully responsive design
