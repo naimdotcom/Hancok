@@ -1,12 +1,11 @@
 # Hancok Website
 
-This is a responsive website built using HTML and CSS. It includes a modern UI with flexible layout adjustments for different screen sizes.
+This is a website built using HTML and CSS. It includes a modern UI with flexible layout adjustments for different screen sizes.
 
 ## Features
 - Fully responsive design
 - Modern and clean UI
 - Navigation menu adapts to different devices
-- Well-structured CSS with media queries for responsiveness
 
 ## Installation
 1. Clone the repository:
